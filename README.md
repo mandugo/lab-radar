@@ -10,4 +10,5 @@ per ora fa schifo poi sistemo tutto
 
 </div>
 
-un altro modo per eliminare i problemi dovuti agli effetti di bordo sulla singola acquisizione è fare una finestratura in fase di preprocessing piuttosto che fare il troncamento
+- un altro modo per eliminare i problemi dovuti agli effetti di bordo sulla singola acquisizione è fare una finestratura in fase di preprocessing piuttosto che fare il troncamento
+- ci sono dei problemi di scaling nell'immagine con sweeps ricampionati
